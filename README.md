@@ -7,4 +7,3 @@ Creation d'un serveur git :
 
 Utilisation de pre-commit
 https://pre-commit.com/
-
