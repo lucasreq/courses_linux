@@ -17,4 +17,4 @@ connexion: SSH
 - Gabriel
 - Eddy
 - Quentin
-- Lucasi
+- Lucas
