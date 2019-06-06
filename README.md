@@ -17,7 +17,4 @@ connexion: SSH
 - Gabriel
 - Eddy
 - Quentin
-- Lucas
-
-
-Test trololol
+- Lucasi
