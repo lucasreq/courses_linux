@@ -18,4 +18,3 @@ connexion: SSH
 - Eddy
 - Quentin
 - Lucas
-- toto
